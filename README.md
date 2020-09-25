@@ -114,8 +114,6 @@ public class Greeting {
     }
 ```
 
-
-
 ## Headers
 ```java
     @GetMapping("/get-headers")
@@ -126,7 +124,6 @@ public class Greeting {
         return "";
     }
 ```
-
 
 ## Cookies
 ``` java
@@ -179,3 +176,16 @@ public class Greeting {
 }
 
 ```
+
+## Logging
+
+
+## Metrics
+
+
+## Containerizing
+
+
+## Persistance
+
+
